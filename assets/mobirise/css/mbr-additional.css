@@ -476,32 +476,13 @@ h6,
   color: #c0a375!important;
 }
 
-#msg-box5-5 H3 {
-  font-family: 'Lora', serif;
+#msg-box8-r .mbr-section-title,
+#msg-box8-r p {
+  color: #fff;
 }
-#msg-box5-5 P {
+#content2-q P {
   text-align: left;
 }
-
-
-#msg-box5-b SPAN {
-  font-family: 'Lora', serif;
-}
-#msg-box5-b P {
-  text-align: left;
-  font-family: 'Lora', serif;
-}
-
-
-#msg-box5-h H3 {
-  font-family: 'Lora', serif;
-}
-#msg-box5-h P {
-  font-family: 'Lora', serif;
-  font-size: 17px;
-  text-align: left;
-}
-
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
